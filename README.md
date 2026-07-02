@@ -58,14 +58,13 @@ $ cat gustavo.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Voidl1k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Voidl1k&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voidl1k&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 
 </div>
 
-> ⚠️ Troque `SEU_USUARIO` pelo seu username do GitHub nos links acima pra essas imagens funcionarem.
 
 ---
 
