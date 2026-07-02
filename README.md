@@ -84,6 +84,6 @@ $ cat gustavo.json
 
 *"Todo dev sênior já foi um dev que não sabia nem o que era um `console.log`."*
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=Voidl1k&color=blueviolet&style=flat" alt="visitor badge"/>
 
 </div>
