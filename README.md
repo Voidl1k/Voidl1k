@@ -46,10 +46,13 @@ $ cat gustavo.json
 
 ```
 🎓 Terminando o Ensino Médio e me preparando pra faculdade / mercado de trabalho
-💻 Estudando desenvolvimento Web (front + back)
+
+💻 Estudando desenvolvimento Web backend
+
 🔧 Explorando JavaScript, Python, Java, HTML, CSS e construção de APIs
+
 🚀 Aprendendo na prática, testando projeto atrás de projeto
-🌱 Sempre em busca do próximo bug pra resolver
+
 ```
 
 ---
