@@ -16,7 +16,7 @@ $ cat gustavo.json
   "nome": "Gustavo",
   "idade": 18,
   "status": "Concluindo o Ensino Médio",
-  "localizacao": "Viamão, RS - Brasil",
+  "localizacao": "Rio Grande do Sul - Brazil",
   "foco_atual": ["Desenvolvimento Web", "Backend"],
   "modo": "aprendendo todo dia",
   "café": true
