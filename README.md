@@ -1,53 +1,90 @@
-<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<div align="center">
 
-<h3 align="center">Estudante de Tecnologia | Desenvolvedor em formação</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo;18+anos+%7C+Ensino+M%C3%A9dio;Futuro+Dev+Backend+%2F+Web" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Estudando...;Criando+software+e+automa%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
-### 🚀 Sobre mim
+### `> whoami`
 
-- 🎓 Estudando...
-- 💻 Interesse em **criação de software**, **automação** e **desenvolvimento web**
-- 🌱 Sempre buscando evoluir e aprender novas ferramentas e conceitos
-- ⚡ Gosto de colocar a mão na massa e transformar ideias em projetos reais
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default" alt="GitHub Streak" height="165"/>
-</p>
+```bash
+$ cat gustavo.json
+```
+```json
+{
+  "nome": "Gustavo",
+  "idade": 18,
+  "status": "Concluindo o Ensino Médio",
+  "localizacao": "Viamão, RS - Brasil",
+  "foco_atual": ["Desenvolvimento Web", "Backend"],
+  "modo": "aprendendo todo dia",
+  "café": true
+}
+```
 
 ---
 
-### 📫 Como me encontrar
+### `> stack`
 
-<p align="left">
-  <a href="mailto:SEU_EMAIL@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,mysql,git,vscode,figma&theme=dark" />
+
+</div>
+
+<br>
+
+| Front-end | Back-end | Linguagens | Ferramentas |
+|:---:|:---:|:---:|:---:|
+| HTML5 | Python | JavaScript | Git & GitHub |
+| CSS3 | APIs REST | Java | VS Code |
 
 ---
 
-<p align="center"><i>Aberto a oportunidades, projetos e colaborações 🚀</i></p>
+### `> sobre mim`
+
+```
+🎓 Terminando o Ensino Médio e me preparando pra faculdade / mercado de trabalho
+💻 Estudando desenvolvimento Web (front + back)
+🔧 Explorando JavaScript, Python, Java, HTML, CSS e construção de APIs
+🚀 Aprendendo na prática, testando projeto atrás de projeto
+🌱 Sempre em busca do próximo bug pra resolver
+```
+
+---
+
+### `> atividade`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+</div>
+
+> ⚠️ Troque `SEU_USUARIO` pelo seu username do GitHub nos links acima pra essas imagens funcionarem.
+
+---
+
+### `> conecte-se`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Todo dev sênior já foi um dev que não sabia nem o que era um `console.log`."*
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat" alt="visitor badge"/>
+
+</div>
